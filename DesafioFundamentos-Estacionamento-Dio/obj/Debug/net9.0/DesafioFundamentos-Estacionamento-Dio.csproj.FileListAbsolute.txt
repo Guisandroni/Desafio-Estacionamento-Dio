@@ -1,0 +1,15 @@
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\bin\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.exe
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\bin\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.deps.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\bin\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.runtimeconfig.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\bin\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\bin\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.AssemblyInfoInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.AssemblyInfo.cs
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.sourcelink.json
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\refint\DesafioFundamentos-Estacionamento-Dio.dll
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.pdb
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\DesafioFundamentos-Estacionamento-Dio.genruntimeconfig.cache
+\\wsl.localhost\Arch\home\guisandroni\csharp\DesafioFundamentos-Estacionamento-Dio\DesafioFundamentos-Estacionamento-Dio\obj\Debug\net9.0\ref\DesafioFundamentos-Estacionamento-Dio.dll
